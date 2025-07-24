@@ -1,1 +1,6 @@
-0fa3f13e-68bd-11f0-98e1-8cec4bbcb954
+#include <iostream>
+int main()
+{
+  std::cout << "Hello World!" << std::endl;
+  return 0;
+}
